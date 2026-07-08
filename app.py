@@ -297,7 +297,7 @@ st.markdown("---")
 
 center_col1, center_col2, center_col3 = st.columns([1, 1.35, 1])
 with center_col2:
-    predict = st.button("💰 Realizar predicción del precio", type="primary", use_container_width=True)
+    predict = st.button("🚗 Predecir precio del automóvil", type="primary", use_container_width=True)
 
 if predict:
     try:
