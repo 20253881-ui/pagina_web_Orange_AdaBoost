@@ -1,0 +1,11 @@
+INSTRUCCIONES PARA ENTREGAR AL PROFESOR
+
+1. Esta página web fue creada con Streamlit.
+2. El modelo fue entrenado previamente en Orange usando AdaBoost.
+3. La página carga el archivo .pkcls exportado desde Orange.
+4. El usuario ingresa las características del automóvil.
+5. El sistema calcula el precio estimado del vehículo.
+6. La predicción debe validarse comparando el resultado con Orange usando los mismos datos.
+
+Frase para explicar:
+"La aplicación web permite integrar el modelo AdaBoost entrenado en Orange dentro de una interfaz desarrollada en Streamlit. El usuario ingresa las características del automóvil y el sistema devuelve una estimación del precio, demostrando el uso de Machine Learning en un negocio en línea soportado con IA."
